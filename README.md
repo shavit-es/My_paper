@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 **학사학위 졸업논문**
 
 **열연 공정 표면 결함 검출의 머신러닝 알고리즘 비교**
-
 **Comparison of Steel Surface Defects Classification Model based on Machine Learning Algorithm**
 
 **한양대학교 산업공학과**
@@ -2295,8 +2293,7 @@ translation equivariance나 지역성 같은 성질이 부족하다. 하지만 �
 학습이 가능하며 다양한 ViT task에 적용 가능한 SPT(Shifted Patch
 Tokenization)와 LSA(Localty Self-Attention) 모듈을 사용하였다.
 
-![](./images/media/image18.png){width="6.268055555555556in"
-height="1.9897965879265092in"}
+![](./images/media/image18.png)
 
 \<그림\> 제안된 SPT와 LSA의 구조
 
@@ -2314,8 +2311,8 @@ Rate:0.001}기준으로 97.5%라는 좋은 성능을 보였다. 각 하이퍼파
 |   | **(Input |     |         |         |           |      | **     |
 |   | size)**  |     |         |         |           |      | Rate** |
 +===+==========+=====+=========+=========+===========+======+========+
-| * | **2      | *   | **128** | **64**  | **10**    |      | **0    |
-| * | 00×200** | *43 |         |         |           |      | .001** |
+| * | **200×200**| *   | **128** | **64**  | **10**    |      | **0.001**|
+| * |          | *43 |         |         |           |      |        |
 | 1 |          | 0** |         |         |           |      |        |
 | * |          |     |         |         |           |      |        |
 | * |          |     |         |         |           |      |        |
