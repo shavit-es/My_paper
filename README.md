@@ -305,11 +305,9 @@ $x_{p} \in R^{N*\left( P^{2}*C \right)}$로 플래튼하였다. 여기서 (H,W)�
 $z_{0} = \left\lbrack x_{class};\ x_{p}^{1}E;\ x_{p}^{2}E;\ldots;\ x_{p}^{N}E \right\rbrack + E_{pos}$ ,
 $E \in R^{\left( P^{2}*C \right)*D},\ E_{pos} \in R^{(N + 1)*D}$
 
-${z^{'}}_{l} = MSA\left( LN\left( z_{l - 1} \right) \right) + z_{l - 1}$ ,
-$l = 1\ldots$
+${z^{'}}_{l} = MSA\left( LN\left( z_{l - 1} \right) \right) + z_{l - 1}, l = 1\ldots$
 
-$z_{l} = MLP\left( LN\left( {z^{'}}_{l} \right) \right) + {z^{'}}_{l}$ ,
-$l = 1\ldots$
+$z_{l} = MLP\left( LN\left( {z^{'}}_{l} \right) \right) + {z^{'}}_{l}, l = 1\ldots$
 
 $y = LN\left( z_{L}^{0} \right)$
 
