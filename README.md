@@ -319,11 +319,9 @@ ${(P,P):\ \ \ \ \ size\ of\ image\ patch}L$
 
 ${N:\ \ \ \ \ \ \ \ \ \ \ \ \ number\ of\ patches}L$
 
-${C:\ \ \ \ \ \ \ \ \ \ \ \ \ number\ of\ Channels
-}L$
+${C:\ \ \ \ \ \ \ \ \ \ \ \ \ number\ of\ Channels}L$
 
-${MSA:\ \ \ \ \ \ \ Multiheaded\ self\ attention
-}L$
+${MSA:\ \ \ \ \ \ \ Multiheaded\ self\ attention}L$
 
 
 ${MLP:\ \ \ \ \ \ \ Multi\ Layer\ Perception}L$
