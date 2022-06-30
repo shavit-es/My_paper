@@ -7,7 +7,7 @@
 
 **Comparison of Steel Surface Defects Classification Model based on Machine Learning Algorithm**
 
-**한양대학교 산업공학과**
+**한양대학교 산업공학과 이현희**
 </center>
 
 # **목 차**
