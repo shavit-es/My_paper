@@ -3,7 +3,7 @@
 
 **학사학위 졸업논문**
 
-**열연 공정 표면 결함 검출의 머신러닝**
+**열연 공정 표면 결함 검출의 머신러닝 알고리즘 비교**
 
 **Comparison of Steel Surface Defects Classification Model based on Machine Learning Algorithm**
 
